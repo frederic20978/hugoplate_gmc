@@ -1,9 +1,9 @@
 ---
 title: "Privacy"
 # meta title
-meta_title: ""
+meta_title: "privacy policy"
 # meta description
-description: "This is meta description"
+description: "privacy policy for gatementorconnect"
 # save as draft
 draft: false
 ---

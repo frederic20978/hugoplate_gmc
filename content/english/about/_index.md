@@ -1,7 +1,7 @@
 ---
 title: "Hey, I am Frederic J Maliakkal!"
 meta_title: "About"
-description: "this is meta description"
+description: "About the mentor page of gatemmentorconnect"
 image: "/images/fjm.jpg"
 draft: false
 ---

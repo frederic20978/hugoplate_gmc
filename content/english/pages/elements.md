@@ -3,7 +3,7 @@ title: "Resources"
 # meta title
 meta_title: "gate resources"
 # meta description
-description: "This is teh page to find relevant resources for gate preparation."
+description: "This is the page to find relevant resources for gate preparation."
 # save as draft
 draft: false
 ---
