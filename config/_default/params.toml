@@ -65,8 +65,8 @@ image = "images/og-image.png"
 # site verifications
 # verification module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/site-verifications
 [site_verification]
-google = ""   # Your verification code
-bing = ""     # Your verification code
+google = "google-site-verification=i7p_d_50kYaBV0QboleU1Vble1QdJYoWTHtRvFM_erM"   # Your verification code
+bing = "google-site-verification=i7p_d_50kYaBV0QboleU1Vble1QdJYoWTHtRvFM_erM"     # Your verification code
 baidu = ""    # Your verification code
 facebook = "" # Your verification code
 mastodon = "" # Your verification code
@@ -100,5 +100,5 @@ enable = false
 [subscription]
 enable = false
 # mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
+mailchimp_form_action = "" # replace this url with yours
+mailchimp_form_name = ""
