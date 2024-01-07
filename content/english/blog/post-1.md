@@ -6,6 +6,7 @@ date: 2024-01-04T05:00:00Z
 image: "/images/banner.png"
 categories: ["Practise", "Strategy"]
 author: "Frederic J Maliakkal"
+authorlink: "https://www.linkedin.com/in/fredericjm/"
 tags: ["questions", "preparation"]
 draft: false
 ---

@@ -25,17 +25,19 @@ features:
       label: "Get Started Now"
       link: "https://topmate.io/frederic"
 
-  # - title: "Discover the Key Features Of Hugo"
-  #   image: "/images/service-2.png"
-  #   content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-  #   bulletpoints:
-  #     - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-  #     - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-  #     - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
-  #   button:
-  #     enable: true
-  #     label: "Get Started Now"
-  #     link: "https://github.com/zeon-studio/hugoplate"
+  - title: "1:1 Mentorship call"
+    image: "/images/service-2.png"
+    content: "As a seasoned GATE topper, my expertise lies in guiding aspirants through the critical last weeks. Here's what you can expect:"
+    bulletpoints:
+      - "Gain insights into the depth of your preparation and identify areas for improvement."
+      - "Tailored advice on what to focus on and strategies to maximize your preparation efforts."
+      - "Clear guidance on what to do and what not to do in the final weeks leading up to the exam."
+      - "Receive targeted motivation and encouragement to stay focused in the crucial final stretch."
+      - "Last minute strategies and how to approach the exam."
+    button:
+      enable: true
+      label: "Get Started Now"
+      link: "https://topmate.io/frederic"
 
   # - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
   #   image: "/images/service-3.png"
