@@ -14,35 +14,35 @@ draft: false
 # The Importance of Solving More Questions in GATE Preparation
 
 
-The Graduate Aptitude Test in Engineering (GATE) is not just a test of theoretical knowledge but a timed, competitive examination that demands strategic preparation. One key aspect that cannot be overlooked in GATE preparation is the significance of solving a large number of practice questions.
+The Graduate Aptitude Test in Engineering (GATE) is not just a test of theoretical knowledge but a timed, competitive exam that demands strategic preparation. Solving questions both PYQ and new questions that are available in the test series are very important to improve your problem solving ability and to boost confidence.
 
 #### Enhancing Problem-Solving Skills
 
-Solving a variety of questions exposes aspirants to diverse problem-solving scenarios. It sharpens analytical skills and enhances the ability to tackle questions from different topics and difficulty levels.
+Solving a variety of questions exposes aspirants to diverse problem-solving scenarios. Problem solving is more important than going through the notes againa nd again. Revision is important but personally I find solving problems have more priority thatn revising.
 
 #### Time Management
 
-GATE is known for its time constraints. Practicing a multitude of questions helps aspirants become adept at managing time efficiently during the actual examination. It is crucial to strike the right balance between accuracy and speed.
+It is an essential skill to master. Duiring my last months of prepartion I have attempted various full length mock test as well as previous year gate paper as a full length test. I have experimemted various strategies and ways in which I can attempt the exam to find out the best way which suited me so that I can utilize the 3 hrs efficiently.
 
 #### Understanding Exam Pattern
 
-Regular practice with a diverse set of questions aids in understanding the GATE exam pattern. It familiarizes aspirants with the types of questions, marking scheme, and distribution of topics, allowing for better strategic planning during the exam.
+If you do enough PYQ you can sense some pattern in the way GATE is asking questions.It has a specific way which make the aspirants use the concepts to understand the question and use aptitude or problem solving skills to solve it.
 
-#### Identifying Weak Areas
+#### Revise
 
-Consistent practice reveals areas where aspirants may struggle or lack confidence. This self-awareness is valuable as it allows for targeted improvement in weaker subjects or topics.
+Differnt people have different methods to revise. It all depends on our personality and interest in the subjects. I used to revise by solving questions and look into my notes and study the concepts and areas in which I made a mistake while solving the quesitons.
 
 #### Building Confidence
 
-Successfully solving a wide range of questions instills confidence in aspirants. Confidence is key during the exam, and a well-practiced candidate is more likely to approach questions with a clear mindset, minimizing anxiety.
+Successfully solving a wide range of questions gives confidence when we are going forward. Confidence is key during the exam, and a well-practiced candidate is more likely to approach questions with a clear mindset, minimizing anxiety.
 
 #### Resources for Practice
 
-To maximize the benefits of solving more questions, aspirants should utilize various resources, including:
+To maximize the benefits of solving more questions, we should utilize various resources, including:
 
 - **Previous Year Question Papers:** Practice with questions from previous years to understand the exam trends.
 - **Mock Tests:** Simulate exam conditions by taking mock tests regularly.
-- **Online Platforms:** Explore online platforms offering a diverse range of practice questions and quizzes.
+- **Online Platforms:** Explore online platforms offering practice questions and quizzes.
 
 
-**Finally** in the competitive landscape of GATE, where time is of the essence, a robust practice routine can make a significant difference. Solving more questions is not just about acquiring knowledge; it is about honing skills, managing time effectively, and building the confidence needed to excel in the GATE exam.
+**Finally** It all comes to the last 3 hrs in which we are giving the exam. ***"Do not go gentle in to that good night"***.

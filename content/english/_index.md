@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Welcome to Gate Mentor Connect"
-  content: "GMC (Gate Mentor Connect) is a specialized platform offering mentorship to GATE aspirants, providing personalized guidance, study strategies, and psychological support to enhance their preparation for the Graduate Aptitude Test in Engineering."
+  content: "GMC (Gate Mentor Connect) is a platform offering mentorship to GATE aspirants, providing personalized guidance, study strategies, and emotional support to enhance their preparation for the Graduate Aptitude Test in Engineering."
   # image: "/images/banner.png"
   button:
     enable: true
@@ -13,31 +13,37 @@ banner:
 features:
   - title: "Personal Guidance"
     image: "/images/service-1.png"
-    content: "Boost your rank by multiple times in GATE CSE 2024 with the last minute advices and strategies from the toppers of previous years. What's Included in the package"
+    content: "I had an issue with finding a personal mentor, but one of my faculty did that for me and it helped me achieve a great rank instead of just qualifying GATE.I would like to guide atmost 10 people with first come first serve basis and offer this service to help you utlise the remaining time to the fullest."
     bulletpoints:
-      - "Personal 1:1 section every week"
-      - "Discuss and Analyse the current strategy and give feedbacks about how to optimise the strategy for better results."
-      - "Whatsapp assist till GATE exam"
-      - "Complete insight of what to focus and what not to do in the last month."
-      - "Boost confidence and psychological meltdowns that come with the last month of Gate preparations."
+      - "We will go through your plan for the remaining time and I will give you my insights based on the plan you have. We'll create a plan if you dont have one as it is very important."
+      - "Give insights about what to do and how to do based on your character and how you approcach gate. Different people have different ways of approaching the exam."
+      - "I can give you my personal contact till GATE exam so that you can connect anytime when you are in need."
+      - "Mental pressure is something I struggeld with a lot during my prepartion. I can help with how to manage the mental tension that is buidling up with every coming day."
     button:
       enable: true
       label: "Get Started Now"
-      link: "https://topmate.io/frederic"
+      link: "https://topmate.io/frederic/696773"
+    note:
+      noteEnable: false
+      noteHeading: "Note"
+      noteContent: "this is only a placeholder."
 
   - title: "1:1 Mentorship call"
     image: "/images/service-2.png"
-    content: "As a seasoned GATE topper, my expertise lies in guiding aspirants through the critical last weeks. Here's what you can expect:"
+    content: "To discuss your preparation plan and your approach to GATE:"
     bulletpoints:
-      - "Gain insights into the depth of your preparation and identify areas for improvement."
-      - "Tailored advice on what to focus on and strategies to maximize your preparation efforts."
-      - "Clear guidance on what to do and what not to do in the final weeks leading up to the exam."
-      - "Receive targeted motivation and encouragement to stay focused in the crucial final stretch."
-      - "Last minute strategies and how to approach the exam."
+      - "1:1 mentorship for discussing the problems you are currently facing in your journey."
+      - "Advices based on my personal experience."
+      - "Every aspirant have a different gate journey. You might have understood that if you have read enough gate success stories. I'll try to help you in a way that is suitable to your journey."
+      - "Gate preparation can have a great deal of mental toll at times. I can guide through those difficult times and help you to look the positive side of your preparation."
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://topmate.io/frederic"
+      label: "Book Now"
+      link: "https://topmate.io/frederic/696748"
+    note:
+      noteEnable: true
+      noteHeading: "Note"
+      noteContent: "The charge for this call is a placeholder to avoid spam. If you are hesitating because of money problems, always dm me in linkedin I am not doing this particularly for money."
 
   # - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
   #   image: "/images/service-3.png"

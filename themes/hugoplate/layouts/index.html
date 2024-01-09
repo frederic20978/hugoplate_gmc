@@ -15,7 +15,7 @@
         {{ if .enable }}
         <a class="btn btn-primary" href="{{ .link | absURL }}">
           {{ .label }}
-          <i class="fa fa-arrow-right pl-2"></i>
+          <i class="fa fa-arrow-right"></i>
         </a>
         {{ end }}
         {{ end }}
@@ -66,6 +66,17 @@
           </li>
           {{ end }}
         </ul>
+        {{ with .note }}
+        {{ if .noteEnable }}
+        <div class="note mt-4 p-4 border border-green-500 bg-green-100 rounded">
+          <div class="flex items-center mb-2">
+            <i class="fa fa-exclamation-circle"></i>
+            <h3 class="text-green-500 text-lg font-bold mr-2 p-2">{{ .noteHeading }}</h3>
+          </div>
+          <p>{{ .noteContent | markdownify }}</p>
+        </div>
+        {{ end }}
+        {{ end }}
         {{ with .button }}
         {{ if .enable }}
         <a class="btn btn-primary mt-6" href="{{ .link | absURL }}">
